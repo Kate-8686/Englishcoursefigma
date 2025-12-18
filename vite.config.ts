@@ -11,5 +11,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/englishcoursefigma/', // ← раскомментировано + строчные буквы!
+  base: '/Englishcoursefigma/', // ← раскомментировано + строчные буквы!
 });
